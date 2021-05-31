@@ -1,3 +1,4 @@
 # Projects-Python-
 
-This repo is like a drawer of my python porjects
+This repo is like a drawer of my python projects
+
